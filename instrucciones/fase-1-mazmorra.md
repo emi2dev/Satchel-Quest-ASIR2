@@ -33,7 +33,7 @@ Cada mazmorra tiene pisos (filas de espacios), elementos (que parecen fichas) y 
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-### Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
+## Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
 
 Cada jugador comienza con su propio mapa de Entrada de Mazmorra. Cada uno debe:
 
@@ -42,80 +42,24 @@ Cada jugador comienza con su propio mapa de Entrada de Mazmorra. Cada uno debe:
 3. Colocar su figura de héroe al lado del piso superior de su mazmorra.
 
 Cuando todos hayan colocado su Entrada, ¡empieza el juego!
-{% endcolumn %}
-{% endcolumns %}
 
-{% columns %}
-{% column width="25%" %}
-
-
-
-
-
-
-
-
-
-
-**Los espacios vacíos** o tienen elementos ni obstáculos, se pueden jugar fichas en ellos.
-
-Algunos tienen ilustraciones ambientales como antorchas o huesos, pero no tienen efecto en el juego.
-
-
-
-**Los elementos de la mazmorra** parecen fichas y tienen el mismo efecto que si allí hubieras puesto una.
-
-**Solo los elementos en los pisos en los que está tu Héroe te afectan**.
-
-Los elementos obligatorios tienen un anillo rojo. No puedes jugar fichas allí.&#x20;
-
-Los elementos opcionales tienen un anillo blanco. Puedes jugar una ficha en ese espacio, reemplazando el efecto por la ficha jugada.
-
-
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-
-
-**Los espacios** están divididos por pilares.
-
-Cada piso consta de 6 espacios.
-{% endcolumn %}
-
-{% column width="25.000000000000007%" %}
-*
-{% endcolumn %}
-
-{% column width="25.000000000000007%" %}
 
 {% endcolumn %}
 {% endcolumns %}
 
-### Elementos de la Mazmorra
 
-* Parecen fichas y tienen el mismo efecto que si allí hubieras puesto una.
-* **Solo los elementos en los pisos en los que está tu Héroe te afectan**.
-  * Los elementos obligatorios tienen un anillo rojo. No puedes jugar fichas allí.
-  * Los elementos opcionales tienen un anillo blanco. Puedes jugar una ficha en ese espacio, reemplazando el efecto por la ficha jugada.
 
-### Obstáculos
+|                                                                                                             1                                                                                                            |                                                      2                                                      |                                                              3                                                              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| Los **espacios vacíos** no tienen ninguna característica ni obstáculo, y se pueden usar fichas. Algunos tienen ilustraciones llamativas, como antorchas o huesos. Genial, pero no tiene ningún efecto en la jugabilidad. | <p>Los <strong>espacios</strong> están divididos por pilares.<br>Cada planta se compone de 6 espacios.</p> | <p> La <strong>entrada</strong> a la mazmorra<br>Los mapas muestran una entrada en la parte superior y tienen 3 pisos.</p> |
 
-* Impiden colocar fichas en ese espacio.
-* Los efectos a distancia (armas, varitas, arcos) no atraviesan obstáculos.
+|                                                        4                                                        |                                                                          5                                                                         |                                                                                                                6                                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Un **piso** es una sola fila del mapa de la mazmorra. El piso con tu figura de héroe al lado es tu piso actual. | Los **obstáculos** te impiden jugar fichas en ese espacio. Los efectos a distancia, como armaduras, varitas y arcos, no atraviesan los obstáculos. | Los **mapas de Dungeon Depths** tienen dos pisos y no tienen entrada. Al añadir un mapa de Dungeon Depths, puedes colocarlo justo debajo de la entrada de tu mazmorra o desplazarlo una casilla a la derecha o a la izquierda. |
 
-### Entrada a la Mazmorra
-
-* Los mapas de Entrada muestran una entrada superior y tienen 3 pisos.
-
-### Piso
-
-* Una fila de la mazmorra.
-* El piso donde está la figura de tu héroe es el piso actual.
-
-### Profundidad de Mazmorra
-
-* Estos mapas tienen 2 pisos y no tienen entrada.
-* Al añadir un mapa de profundidad, ponlo directamente debajo de tu Entrada de Mazmorra o muévelo una casilla a la derecha o izquierda.
+|                                                                                             7                                                                                            |                                                        8                                                        |                                                                               9                                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Las **características de la mazmorra** parecen fichas y tienen el mismo efecto que si se colocara una. Solo las características de los pisos a los que tu Héroe haya llegado te afectan. | Las **características obligatorias** tienen un círculo rojo alrededor. No se pueden jugar fichas en su espacio. | Las **características opcionales** tienen un círculo blanco alrededor. Las fichas se pueden jugar en su espacio, reemplazando el efecto con la ficha jugada. |
 
 ***
 
