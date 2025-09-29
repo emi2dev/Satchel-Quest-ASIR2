@@ -22,18 +22,18 @@ layout:
 # Fase 1: Mazmorra
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column %}
 Cada ronda comienza con la Fase de Mazmorra, donde se elige una mazmorra e intentas resolver puzles de adyacencia sacando fichas de tu bolsa y colocándolas estratégicamente. Empiezas en el piso superior y bajas de nivel a medida que llenas todos los espacios, sacando y colocando fichas hasta que el piso esté vacío o decidas detenerte.
 
 Una vez completada tu mazmorra, avanza a la Fase de Resolución para determinar el efecto de todas las fichas que jugaste.
 
-### Anatomía de una Mazmorra <a href="#anatoma-de-una-mazmorra" id="anatoma-de-una-mazmorra"></a>
+#### Anatomía de una Mazmorra <a href="#anatoma-de-una-mazmorra" id="anatoma-de-una-mazmorra"></a>
 
 Cada mazmorra tiene pisos (filas de espacios), elementos (que parecen fichas) y obstáculos (que parecen escombros). Las distintas partes de la mazmorra se explican en el siguiente diagrama e indicaciones:
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
-## Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
+{% column %}
+### Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
 
 Cada jugador comienza con su propio mapa de Entrada de Mazmorra. Cada uno debe:
 
@@ -42,16 +42,14 @@ Cada jugador comienza con su propio mapa de Entrada de Mazmorra. Cada uno debe:
 3. Colocar su figura de héroe al lado del piso superior de su mazmorra.
 
 Cuando todos hayan colocado su Entrada, ¡empieza el juego!
-
-
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-|                                                                                                             1                                                                                                            |                                                      2                                                      |                                                              3                                                              |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-| Los **espacios vacíos** no tienen ninguna característica ni obstáculo, y se pueden usar fichas. Algunos tienen ilustraciones llamativas, como antorchas o huesos. Genial, pero no tiene ningún efecto en la jugabilidad. | <p>Los <strong>espacios</strong> están divididos por pilares.<br>Cada planta se compone de 6 espacios.</p> | <p> La <strong>entrada</strong> a la mazmorra<br>Los mapas muestran una entrada en la parte superior y tienen 3 pisos.</p> |
+|                                                                                                             1                                                                                                            |                       2                       |  3  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------: | :-: |
+| Los **espacios vacíos** no tienen ninguna característica ni obstáculo, y se pueden usar fichas. Algunos tienen ilustraciones llamativas, como antorchas o huesos. Genial, pero no tiene ningún efecto en la jugabilidad. | Los **espacios** están divididos por pilares. |     |
+|                                                                                     <p><br>Cada planta se compone de 6 espacios.</p>                                                                                     |          La **entrada** a la mazmorra         |     |
+|                                                                     <p><br>Los mapas muestran una entrada en la parte superior y tienen 3 pisos.</p>                                                                     |                                               |     |
 
 |                                                        4                                                        |                                                                          5                                                                         |                                                                                                                6                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
