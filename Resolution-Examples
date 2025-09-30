@@ -1,0 +1,26 @@
+# RESOLUTION EXAMPLE
+
+---
+
+## Nyx's Satchel is out of chips, so they stop.  
+When all players are ready, they resolve their Dungeon.
+
+1. **Potions**: Nyx gains 1 health, putting them up to 6 health.  
+
+2. **Chests**:  
+   - Chest 2a is opened but not disarmed (more coin chips than needed).  
+   - Chest 2b is not opened (does not meet requirements).  
+   - Chest 2c is below the farthest floor that Nyx reached, so Nyx does not evaluate it for damage or rewards.  
+
+Nyx takes a total of 2 damage from the chests.  
+Nyx gains 3 gold and 3XP from the opened chest.  
+
+![Imagen Satchel](satchel_image.png)
+
+---
+
+## Resolution Details
+
+| Monsters                                                                                                                                                                                                                                                                   | Coins, Gems, and Artifacts                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The shield reduces 1 damage from monsters 3b and 3c, so Nyx takes 1 damage from the Bramble Gremlin (3c) and 0 from the Snake-bat (3b). Nyx takes 2 damage from the other Snakebat for a total of 3. This leaves Nyx at 2 health. <br><br> Nyx deals 2 damage to the Bramble Gremlin, which is not enough to defeat it, and deals 2 to Snakebat 3b, which does defeat it. Nyx also deals 2 damage to Snakebat 3a, defeating it as well (one from the adjacent Sword and one from the Staff on the 4th floor). <br><br> The Snakebats each have a Reward of 1, for a total of 2, so Nyx gains 2 gold, 2xp, and 2vp. | 4. **Coins**: Nyx has 3 coins with a total of 4 strength, so gains 4 gold. <br><br> 5. **Gems**: Nyx has a Jade gem. It has two adjacent coins with a total strength of 3, so Nyx gains an additional 3 gold. <br><br> 6. **Artifacts**: Nyx has one group of artifacts. There are 2 different artifacts in it, so Nyx chooses 2 different rewards: VP and health. The group size is 3 (the total number of artifacts in it), so they gain 3vp and 3 Health. <br><br> Artifact 6b is below the furthest floor that Nyx reached, so Nyx does not evaluate it. |
