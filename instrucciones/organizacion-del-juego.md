@@ -33,4 +33,4 @@ Each hero starts with a few extra chips in their Satchel:
 - **Alchemist** – Potion and Staff  
 - **Wizard** – Coin and Staff  
 
-In addition, each Hero has 2 unique starting skills, and 12 level up skills.  
+In addition, each Hero has 2 unique starting skills, and 12 level up skills.
