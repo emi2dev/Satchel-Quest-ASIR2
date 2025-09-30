@@ -57,7 +57,7 @@ Cada tablero de Héroe incluye:
 
 ## Diagrama de Skill Token
 
-Una fiicha de habilidad incluye:
+Una ficha de habilidad incluye:
 - **Símbolo del Héroe**  
 - **Nivel**  
 - **Nombre**  
