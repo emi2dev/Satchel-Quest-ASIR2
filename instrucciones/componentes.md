@@ -1,36 +1,66 @@
-# Componentes
+#  COMPONENTES
+## 1. Preparación del Juego
 
-# Setup
-
-## A. Game setup
-1. Place the Market Board in the center of the table.  
-2. Place the tier 1, 2, and 3 chips (marked with 1, 2 or 3 dots) in randomized piles of the same tier.  
-3. Place the gold tokens and Tool tokens next to the Market Board.  
-4. Shuffle the Dungeon Entrance Maps and Dungeon Depths Maps separately and place each stack within easy reach of all players.  
-5. Give the first player token to a randomly selected player.  
-
-<img src="assets/image.png" alt="Market Board" width="250" align="right"/>
+- Coloca el **Tablero de Mercado** en el centro de la mesa.  
+- Coloca las fichas de nivel 1, 2 y 3 (marcadas con 1, 2 o 3 puntos) en montones aleatorios por nivel para formar una **reserva** cerca del Tablero de Mercado.  
+   - *(Puedes hacer varios montones por cada nivel; no es necesario que estén todos en uno solo.)*  
+- Coloca las **fichas de Oro** y **fichas de Herramienta** junto al Tablero de Mercado.
+- Baraja por separado los **Mapas de Entrada a la Mazmorra** y los **Mapas de Profundidades**. Colócalos en pilas accesibles para todos los jugadores.
+- Entrega el **token de Primer Jugador** a un jugador elegido al azar.
 
 ---
 
-## B. Player setup
-Determine which hero each player is playing (randomly or by choice).
+## 2. Jugadores
 
-Each Player:
-6. Take the Hero Board, skill reference, and the 10 starting chips (marked with their Hero’s symbol). Take the bag that matches your hero's color.  
-7. Place one health tracker and one XP tracker on the zero space of your tracks.  
-8. Place your VP token on the 0 (zero) space of the VP track on the Market Board.  
+**Determina qué héroe usará cada jugador** (al azar o por elección).
 
-<img src="assets/image2.png" alt="Hero Board" width="250" align="right"/>
+### Cada jugador debe:  
+- Tomar el **Tablero de Héroe**, la **referencia de habilidades** y las **10 fichas iniciales** (marcadas con el símbolo del Héroe). También toma la **bolsa** del color de tu héroe.
+- Colocar un **marcador de Salud** y uno de **Experiencia (XP)** en el espacio "0" de los respectivos tracks en su Tablero de Héroe.
+- Colocar su **token de Puntos de Victoria (VP)** en el espacio "0" del track de VP en el Tablero de Mercado.
 
 ---
 
-### What's special about my hero?
-Each hero starts with a few extra chips in their Satchel:
+## 3. Habilidades
 
-- **Fighter** – Sword and Shield  
-- **Rogue** – Coin and Bow  
-- **Alchemist** – Potion and Staff  
-- **Wizard** – Coin and Staff  
+9. Coloca la **ficha de habilidad inicial** de tu Héroe encima de tu Tablero de Héroe.  
+10. Divide tus **fichas de habilidad** (con números del 1 al 4 en el reverso) en 4 pilas según el número.  
+    - Roba **dos fichas al azar de cada pila** y colócalas **boca arriba** en los espacios correspondientes de tu Tablero de Héroe.  
+11. Guarda las habilidades **no utilizadas** cerca de tu área de juego, **boca abajo**, para marcar la **completación de misiones**.
 
-In addition, each Hero has 2 unique starting skills, and 12 level up skills.  
+---
+
+## 4. Preparación del Camino de Aventura
+
+Existen 4 Caminos de Aventura estándar, cada uno con 5 cartas numeradas del 1 al 5 en el reverso.
+
+- Revisa las cartas con el número **1** en el reverso y **elige un camino**.  
+    - *(Sugerencia: para la primera partida, usa "Las Ruinas de Molthune")*
+- Coloca la carta elegida **boca abajo** en la parte superior izquierda, por encima del Tablero de Mercado.  
+    - Coloca las otras 4 cartas restantes **boca abajo** de izquierda a derecha en orden ascendente.
+- **Revela la primera carta** del camino y **lee su texto en voz alta**.  
+    - Cada jugador recibe los **recursos iniciales** indicados (oro, salud, herramientas, etc.).
+
+---
+
+## 5 Camino de Aventura Avanzado
+
+Después de completar todos los Caminos de Aventura, puedes desbloquear reinos desconocidos usando el **Camino del Caos Planar**:
+
+- Usa la carta "Caos Planar" como la carta número 1.
+- Para las cartas 2 a 5, elige una carta al azar de otros caminos (sin mirar) y colócalas en orden ascendente.
+
+---
+
+## ¿Qué tiene de especial mi Héroe?
+
+Además:
+
+- Cada Héroe tiene **2 habilidades iniciales únicas**.
+- Cada Héroe posee **12 habilidades de mejora**.
+- En cada partida, se construye un árbol de habilidades usando **solo 8 de las 12**, elegidas al azar.  
+
+Esto significa que **incluso usando el mismo héroe, cada partida ofrece nuevas combinaciones y estrategias**.
+
+---
+
