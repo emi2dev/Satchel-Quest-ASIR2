@@ -66,4 +66,4 @@ El juego termina cuando se completa la mazmorra. El jugador con más **VP** es e
 
 ---
 
-¡Prepárate para la aventura, construye con astucia y conviértete en el héroe más legendario de Satchel Quest!
+¡Prepárate para la aventura en Satchel Quest!
