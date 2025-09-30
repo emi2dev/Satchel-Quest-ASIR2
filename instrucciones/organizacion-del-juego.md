@@ -1,36 +1,36 @@
 # Organización del juego
 
-# Setup
+# Preparación
 
-## A. Game setup
-1. Place the Market Board in the center of the table.  
-2. Place the tier 1, 2, and 3 chips (marked with 1, 2 or 3 dots) in randomized piles of the same tier.  
-3. Place the gold tokens and Tool tokens next to the Market Board.  
-4. Shuffle the Dungeon Entrance Maps and Dungeon Depths Maps separately and place each stack within easy reach of all players.  
-5. Give the first player token to a randomly selected player.  
+## A. Preparación de la partida
+1. Coloca el Tablero de Mercado en el centro de la mesa.  
+2. Coloca las fichas de nivel 1, 2 y 3 (marcadas con 1, 2 o 3 puntos) en montones aleatorios de su mismo nivel.  
+3. Coloca las fichas de oro y las fichas de Herramienta junto al Tablero de Mercado.  
+4. Baraja los Mapas de Entrada a la Mazmorra y los Mapas de Profundidades de la Mazmorra por separado y coloca cada mazo al alcance de todos los jugadores.  
+5. Entrega la ficha de jugador inicial a un jugador elegido al azar.  
 
-<img src="assets/imagen-tienda1.png" alt="Market Board" width="250" align="right"/>
-
----
-
-## B. Player setup
-Determine which hero each player is playing (randomly or by choice).
-
-Each Player:
-6. Take the Hero Board, skill reference, and the 10 starting chips (marked with their Hero’s symbol). Take the bag that matches your hero's color.  
-7. Place one health tracker and one XP tracker on the zero space of your tracks.  
-8. Place your VP token on the 0 (zero) space of the VP track on the Market Board.  
-
-<img src="assets/imagen-tienda2.png" alt="Hero Board" width="250" align="right"/>
+<img src="assets/imagen-tienda1.png" alt="Tablero de Mercado" width="250" align="right"/>
 
 ---
 
-### What's special about my hero?
-Each hero starts with a few extra chips in their Satchel:
+## B. Preparación de los jugadores
+Determina qué héroe usará cada jugador (al azar o por elección).
 
-- **Fighter** – Sword and Shield  
-- **Rogue** – Coin and Bow  
-- **Alchemist** – Potion and Staff  
-- **Wizard** – Coin and Staff  
+Cada jugador:
+6. Coge el Tablero de Héroe, la referencia de habilidades y las 10 fichas iniciales (marcadas con el símbolo de su Héroe). Coge la bolsa que coincida con el color de tu héroe.  
+7. Coloca un marcador de salud y un marcador de XP en la casilla cero de sus respectivos tracks.  
+8. Coloca tu ficha de PV en la casilla 0 (cero) del track de PV del Tablero de Mercado.  
 
-In addition, each Hero has 2 unique starting skills, and 12 level up skills.
+<img src="assets/imagen-tienda2.png" alt="Tablero de Héroe" width="250" align="right"/>
+
+---
+
+### ¿Qué tiene de especial mi héroe?
+Cada héroe comienza con algunas fichas extra en su Satchel:
+
+- **Guerrero** – Espada y Escudo  
+- **Pícaro** – Moneda y Arco  
+- **Alquimista** – Poción y Bastón  
+- **Mago** – Moneda y Bastón  
+
+Además, cada Héroe tiene 2 habilidades iniciales únicas y 12 habilidades de subida de nivel.
