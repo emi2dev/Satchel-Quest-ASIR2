@@ -1,4 +1,3 @@
-# Introducción a Satchel Quest
 #  Satchel Quest: Reglas del Juego
 
 ¡Bienvenido a **Satchel Quest**, una aventura de construcción de mazmorras para héroes valientes que buscan gloria, riquezas y poder!
