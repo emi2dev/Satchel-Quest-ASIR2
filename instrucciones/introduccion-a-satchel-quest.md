@@ -1,6 +1,6 @@
 # Introducción a Satchel Quest
 #  Satchel Quest: Reglas del Juego
-![satchel_quest](.gitbook/assets/acg_portada1.jpg)
+![satchel_quest](gitbook/assets/acg_portada1.jpg)
 
 ¡Bienvenido a **Satchel Quest**, una aventura de construcción de mazmorras para héroes valientes que buscan gloria, riquezas y poder!
 
