@@ -1,6 +1,4 @@
-# Introducción a Satchel Quest
 #  Satchel Quest: Reglas del Juego
-![satchel_quest](instrucciones/assets/acg_portada1.jpg)
 
 ¡Bienvenido a **Satchel Quest**, una aventura de construcción de mazmorras para héroes valientes que buscan gloria, riquezas y poder!
 
@@ -67,4 +65,4 @@ El juego termina cuando se completa la mazmorra. El jugador con más **VP** es e
 
 ---
 
-¡Prepárate para la aventura, construye con astucia y conviértete en el héroe más legendario de Satchel Quest!
+¡Prepárate para la aventura en Satchel Quest!

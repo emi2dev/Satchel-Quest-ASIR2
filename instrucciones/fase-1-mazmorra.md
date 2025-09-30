@@ -61,4 +61,59 @@ Cuando todos hayan colocado su Entrada, ¡empieza el juego!
 
 ***
 
+## PASO 2: JUEGA TU MAZMORRA
+{% columns %}
+{% column %}
+
+Los jugadores simultáneamente sacan fichas de sus bolsas y las colocan
+ellos en sus mapas de mazmorras. Los jugadores comienzan en el piso superior,
+y una vez lleno descender al siguiente piso. Si un jugador llena
+todos los pisos en su mapa de mazmorra, agregan una mazmorra
+Mapa de profundidades para profundizar aún más.
+
+1. Saca una ficha de tu cartera y mira ambos lados. Tú eliges de qué lado te gustaría jugar boca arriba.
+2. You may only play chips on your current floor.
+3. Puedes colocar una ficha en espacios vacíos u opcional
+espacios de características, pero no en obstáculos o obligatorios
+espacios destacados, o encima de fichas jugadas anteriormente.
+
+<figure><img src="../instrucciones/assets/imagen_mazmorra2.png" alt=""><figcaption></figcaption></figure>
+
+Cuando saques la última ficha de tu bolsa, juégala y luego Deténgase inmediatamente (antes de avanzar al siguiente piso).
+
+### DESCENDER
+
+Cada fila de la mazmorra es un piso. Usa tu figura de héroe para Realice un seguimiento de su piso actual.
+
+Terminar un Piso: Un piso está terminado cuando no tiene espacios vacíos. espacios (hay un chip, obstáculo o característica en cada espacio). Cuando un piso está terminado, antes de sacar tu siguiente ficha.Si lo haces, debes elegir entre:
+
+* Continuar: Mueve tu figura de héroe al siguiente piso inferior, y sigue sacando fichas. Sólo puedes continuar si Queda al menos un chip en tu bolso.
+
+* Detener: deja tu figura de héroe en el piso actual y deja de sacar fichas. Has terminado con esta mazmorra. Generalmente es mejor jugar todas tus fichas, así que sólo querrás parar temprano muy raramente.
+
+{% endcolumn %}
+
+{% column %}
+
+### ACABANDO EL MAPA
+
+Cuando llenas la última fila de un mapa de mazmorra (Entrada o Profundidades), si te quedan fichas en tu bolsa, saca inmediatamente un nuevo mapa de Dungeon Depths desde la parte inferior de la pila. Elige un lado y colócalo debajo de tu mapa actual. Entonces Realice el resto de los pasos de "Acabado de un piso".
+
+Al colocar un mapa de Dungeon Depths, puedes colocarlo directamente debajo de la entrada de tu mazmorra o muévela un espacio para la izquierda o la derecha, pero una vez colocado no podrás cambiarlo.
+
+## FINAL DE LA FASE DE MAZMORRA
+
+Una vez que todos los jugadores hayan colocado todas sus fichas o se hayan detenido, la fase de Mazmorra termina y comienza la fase de Resolución.
+
+## EJEMPLO DE JUEGO DE MAZMORRA
+
+<figure><img src="../instrucciones/assets/imagen_mazmorra3.png" alt=""><figcaption></figcaption></figure>
+
+Nyx (el Pícaro) coloca su mapa de mazmorra y pone su figura al lado del primer piso. Su mazmorra tiene 3 obstáculos (A), 2 opcionales. características (B) y 1 característica obligatoria (C).
+
+Nyx saca su primera ficha. Es una espada/cofre. Deben colocarlo en uno de los espacios en el primer piso, por lo que colocan con la Espada boca arriba sobre la función Monstruo (las espadas golpean ortogonalmente), y adyacente a la función Cofre (que necesita un arma adyacente, moneda y poción para desbloquear).
+
+{% endcolumn %}
+{% endcolumns %}
+
 ### &#x20;<a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
