@@ -27,13 +27,13 @@ Cada ronda comienza con la Fase de Mazmorra, donde se elige una mazmorra e inten
 
 Una vez completada tu mazmorra, avanza a la Fase de Resolución para determinar el efecto de todas las fichas que jugaste.
 
-#### Anatomía de una Mazmorra <a href="#anatoma-de-una-mazmorra" id="anatoma-de-una-mazmorra"></a>
+**Anatomía de una Mazmorra**
 
 Cada mazmorra tiene pisos (filas de espacios), elementos (que parecen fichas) y obstáculos (que parecen escombros). Las distintas partes de la mazmorra se explican en el siguiente diagrama e indicaciones:
 {% endcolumn %}
 
 {% column %}
-### Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
+#### Paso 1: Elige un Mapa de Mazmorra <a href="#paso-1-elige-un-mapa-de-mazmorra" id="paso-1-elige-un-mapa-de-mazmorra"></a>
 
 Cada jugador comienza con su propio mapa de Entrada de Mazmorra. Cada uno debe:
 
@@ -58,6 +58,8 @@ Cuando todos hayan colocado su Entrada, ¡empieza el juego!
 |                                                                                             7                                                                                            |                                                        8                                                        |                                                                               9                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Las **características de la mazmorra** parecen fichas y tienen el mismo efecto que si se colocara una. Solo las características de los pisos a los que tu Héroe haya llegado te afectan. | Las **características obligatorias** tienen un círculo rojo alrededor. No se pueden jugar fichas en su espacio. | Las **características opcionales** tienen un círculo blanco alrededor. Las fichas se pueden jugar en su espacio, reemplazando el efecto con la ficha jugada. |
+
+<figure><img src="../.gitbook/assets/fotomazmorra1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
