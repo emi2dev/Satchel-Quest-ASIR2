@@ -1,6 +1,6 @@
 # Glosario, Aclaraciones sobre Rutas y Habilidades
 
-!\[Golsario\_Satchel]\(SatchelQuest/SatchelQuest-glosario.jpg)
+<figure><img src="../.gitbook/assets/SatchelQuest-glosario.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
