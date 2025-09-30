@@ -26,7 +26,7 @@ Cada jugador:
 ---
 
 ### ¿Qué tiene de especial mi héroe?
-Cada héroe comienza con algunas fichas extra en su Zurrón:
+Cada héroe comienza con algunas fichas extra en su Satchel:
 
 - **Guerrero** – Espada y Escudo  
 - **Pícaro** – Moneda y Arco  
